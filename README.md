@@ -13,6 +13,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 💼 Current company - Reval Atacado de Papelaria Ltda
 
  👇🏼
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-bassani-de-abreu-29406b202/)](https://www.linkedin.com/in/mike-bassani-de-abreu-29406b202/) 
 
 
