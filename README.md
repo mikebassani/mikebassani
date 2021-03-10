@@ -2,7 +2,7 @@
 
 My name is Mike Bassani🚀
 
-I have been a Full Stack developer since 2018. 💻
+I have been a Full Stack C# developer since 2018. 💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
