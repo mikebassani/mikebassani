@@ -8,7 +8,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
-- 📍 From Jau- SP 
+- 📍  From Jau- SP 
 - 💻 Full Stack C# 
 - 💼 Current company - Reval Atacado de Papelaria Ltda
 
