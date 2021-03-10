@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**mikebassani/mikebassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mike Bassani🚀
 
-Here are some ideas to get you started:
+I have been a Full Stack developer since 2018. 💻
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
+
+- 📍 From Jau- SP 
+- 💻 Full Stack C# 
+- 💼 Current company - Reval Atacado de Papelaria Ltda
+
+ 👇🏼
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-bassani-de-abreu-29406b202/)](https://www.linkedin.com/in/mike-bassani-de-abreu-29406b202/) 
+
+
